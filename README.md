@@ -44,5 +44,5 @@ This project is licensed under the [MIT License](LICENSE).
 You can try the live demo here: [Live Demo](https://codewhisperer.vercel.app/)
 
 ## Author
-Developed by Nazmul
+Developed by Adam
 
